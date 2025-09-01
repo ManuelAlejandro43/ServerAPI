@@ -1,0 +1,1 @@
+{"editor.formatOnSave":true,"editor.defaultFormatter":"esbenp.prettier-vscode","files.exclude":{"**/.next":true,"**/node_modules":true,"**/dev.db":true},"editor.codeActionsOnSave":{"source.fixAll.eslint":true},"prisma.clientPreviewFeatures":[],"prisma.useLanguageServer":true,"terminal.integrated.env.windows":{},"terminal.integrated.env.linux":{},"terminal.integrated.env.osx":{}}
